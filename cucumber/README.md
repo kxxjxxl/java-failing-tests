@@ -27,6 +27,3 @@ use **IDEA >= 2019.3** and click on the feature files, or the package with in **
 
 - [Cucumber 5.1.2](https://github.com/cucumber/cucumber-jvm/tree/v5.1.2)
 
-This repo was tested with idea, if you encounter problems please open an issue or send a pull request.
-
-Have fun!
