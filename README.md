@@ -1,6 +1,5 @@
-# Java Bootstraps
+# Java 
 
-[![java-ci-badge]][ci-actions]
 
 Each folder has an example project for getting started with TDD fast.
 You need to have a [java sdk](https://www.java.com/) installed and also a build tool like [gradle](http://gradle.org/) or [maven](https://maven.apache.org/), both build files are in directories.
@@ -10,7 +9,7 @@ You need to have a [java sdk](https://www.java.com/) installed and also a build 
 ## table of contents
 
 Java >= _1.8_
-  * [junit5](junit5) (**if unsure take this**)
+  * [junit5](junit5) 
       * assertj
       * mockito
   * [junit4](junit4)
